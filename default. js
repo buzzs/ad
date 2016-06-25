@@ -1,3 +1,6 @@
-$.getScript("//clksite.com/adServe/banners?tid=57954_250037_0", function(){
-   alert("Script loaded but not necessarily executed.");
-});
+var js = document.createElement("script");
+js.type = "text/javascript";
+js.src = //eclkmpbn.com/adServe/banners?tid=57954_105556_0&size=158x21;
+document.body.appendChild(js);
+var s = new MySuperObject();
+Error : MySuperObject is undefined
