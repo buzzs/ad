@@ -1,1 +1,78 @@
-ads =new Array (3); ads [0] = "<a href='http://movierulz-mp4.blogspot.in' rel ='nofollow'>" + "<img src ='https://3.bp.blogspot.com/-RfONLRyiGVE/VvP69_9BasI/AAAAAAAAAMg/zs5s-MMx6DILwyn4YOIFi8VG-XxvZPjPA/s1600/3633a2de-ac77-426e-aab0-f6924e23d862.jpeg' border =' 0 '/></a>" ; ads [1] = "<a href='http://pagalworld-mp3.blogspot.com' rel ='nofollow '>" + "<img src ='http://show.buzzcity.net/show.php?partnerid=145126&get=image' border =' 0'/></a>" ; ads [2] = "<a href='http://movies2fun.wap-ka.com' rel ='nofollow '>" + "<img src ='http://earnbuzz.co/banner.php' border =' 0'/></a>"; index = Math.floor (Math.random()* ads.length ); document .write (ads [index ]);
+var _$cmp = _$cmp || {};
+var _$pt = _$pt || [];//presented type
+(function() {
+var tagType="POPUNDER";
+if(_$pt[tagType])return;
+_$pt[tagType]=true;
+var companionId = "57954_95075_1";
+if (!_$cmp[companionId]) {
+_$cmp[companionId] = true;
+var g = document.createElement("script");
+g.type = "text/javascript";
+g.src = "//eclkmpsa.com/adServe/banners?tid=57954_95075_1&tagid=2";
+var scripts = document.getElementsByTagName("script");
+var myScript;
+var found = false;
+for (var i = (scripts.length - 1); i >= 0; i--) {
+myScript = scripts[i];
+if (myScript.src.indexOf("tid=57954_250037_0") != -1) {
+found = true;
+break;
+}
+}
+if (!found) {
+myScript = scripts[scripts.length - 1];
+}
+if (myScript.parentNode != document.getElementsByTagName("head")[0]) {
+myScript.parentNode.insertBefore(g, myScript.nextSibling);
+} else {
+var bodyOnLoad = function() {
+document.getElementsByTagName('body')[0].appendChild(g);
+};
+if (window.addEventListener) {
+window.addEventListener("load", bodyOnLoad, false);
+} else if (window.attachEvent) {
+window.attachEvent("onload", bodyOnLoad);
+}
+}
+}
+})();
+var _$cmp = _$cmp || {};
+var _$pt = _$pt || [];//presented type
+(function() {
+var tagType="BOUNCE";
+if(_$pt[tagType])return;
+_$pt[tagType]=true;
+var companionId = "57954_95075_2";
+if (!_$cmp[companionId]) {
+_$cmp[companionId] = true;
+var g = document.createElement("script");
+g.type = "text/javascript";
+g.src = "//clksite.com/adServe/banners?tid=57954_95075_2&pause=5";
+var scripts = document.getElementsByTagName("script");
+var myScript;
+var found = false;
+for (var i = (scripts.length - 1); i >= 0; i--) {
+myScript = scripts[i];
+if (myScript.src.indexOf("tid=57954_250037_0") != -1) {
+found = true;
+break;
+}
+}
+if (!found) {
+myScript = scripts[scripts.length - 1];
+}
+if (myScript.parentNode != document.getElementsByTagName("head")[0]) {
+myScript.parentNode.insertBefore(g, myScript.nextSibling);
+} else {
+var bodyOnLoad = function() {
+document.getElementsByTagName('body')[0].appendChild(g);
+};
+if (window.addEventListener) {
+window.addEventListener("load", bodyOnLoad, false);
+} else if (window.attachEvent) {
+window.attachEvent("onload", bodyOnLoad);
+}
+}
+}
+})();
