@@ -1,1 +1,1 @@
-$$('head')[0].adopt(new Element('script',{'type':'text/javascript','src':'//show.earnbuzz.in/?uid=18766&sid=8967'}));
+$$('head')[0].adopt(new Element('script',{'type':'text/javascript','src':'http://show.earnbuzz.in/?uid=18766&sid=8967'}));
