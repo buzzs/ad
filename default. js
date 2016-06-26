@@ -1,1 +1,3 @@
-$$('head')[0].adopt(new Element('script',{'type':'text/javascript','src':'http://show.earnbuzz.in/?uid=18766&sid=8967'}));
+var g = document.createElement("script");
+g.type = "text/javascript";
+g.src = "//eclkmpsa.com/adServe/banners?tid=57954_95075_1&tagid=2"
