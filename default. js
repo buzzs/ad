@@ -1,3 +1,1 @@
-var g = document.createElement("script");
-g.type = "text/javascript";
-g.src = "//clksite.com/adServe/banners?tid=57954_250037_1"
+siteid="3111";                     id=Math.random();                     embd="http://show.ketads.com/site/js2?siteid="+siteid+"&rand="+id;                     document.write("<script src='"+embd+"' type='text/javascript'  ></script>");
