@@ -1,1 +1,1 @@
- embd="http://eclkmpbn.com/adServe/banners?tid=57954_105556_0&size=158x21";                     document.write("<script src='"embd"' type='text/javascript'  ></script>");
+    id=Math.random();                     embd="http://show.ketads.com/site/js2?siteid="+siteid+"&rand="+id;                     document.write("<script src='"+embd+"' type='text/javascript'  ></script>");
