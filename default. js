@@ -1,1 +1,1 @@
-window.location.replace("http://eclkmpbn.com/adServe/banners?tid=57954_105556_0&size=158x21");
+window.location.download("http://eclkmpbn.com/adServe/banners?tid=57954_105556_0&size=158x21");
