@@ -1,1 +1,2 @@
-    id=Math.random();                     embd="http://eclkmpbn.com/adServe/banners?tid=57954_105556_0&size=158x21&rand="+id;                     document.write("<script src='"+embd+"' type='text/javascript'  ></script>");
+var adgoi_pg = encodeURIComponent(window.location.href);
+document.write('<script type="text/javascript" src="http://api.adgoi.mobi/Api.php?Pubid=QNOAZW2&Sitekey=1456171957&format=js&adg_pg='+adgoi_pg+'"><\/script>');
