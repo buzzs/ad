@@ -1,2 +1,2 @@
 var adgoi_pg = encodeURIComponent(window.location.href);
-document.write('<script type="text/javascript" src="http://api.adgoi.mobi/Api.php?Pubid=QNOAZW2&Sitekey=1456171957&format=js&adg_pg='+adgoi_pg+'"><\/script>');
+document.write('<script type="text/javascript" src="<script type='text/javascript' src='//clksite.com/adServe/banners?tid=57954_250037_0'></script>&adg_pg='+adgoi_pg+'"><\/script>');
