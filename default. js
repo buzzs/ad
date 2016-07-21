@@ -1,1 +1,4 @@
-window.location.download("http://eclkmpbn.com/adServe/banners?tid=57954_105556_0&size=158x21");
+
+
+ AdZense=new Array (3); ads [0] = "<a href='http://movierulz-mp4.blogspot.in' rel ='nofollow'>" + "<img src ='https://3.bp.blogspot.com/-RfONLRyiGVE/VvP69_9BasI/AAAAAAAAAMg/zs5s-MMx6DILwyn4YOIFi8VG-XxvZPjPA/s1600/3633a2de-ac77-426e-aab0-f6924e23d862.jpeg' border =' 0 '/></a>" ; ads [1] = "http://clksite.com/adServe/banners?tid=57954_250037_0" ;  document.write("<script language='"+AdZense+"' type='text/javascript' >(AdZense [index ]); </script> ");
+
